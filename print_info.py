@@ -41,6 +41,9 @@ def print_info(dataframe):
         print(f'first few indices are {head_indexes}')
     print()
 
+    print(dataframe.iloc[0])
+    print(dataframe['Region'][0])
+
 
 def get_datatypes(dataframe):
     ''' 
