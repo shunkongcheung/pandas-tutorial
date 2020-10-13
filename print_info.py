@@ -1,4 +1,4 @@
-''' get_datatypes '''
+''' Learn about meta information of a dataframe '''
 
 
 def print_info(dataframe):
